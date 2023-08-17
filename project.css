@@ -1,0 +1,16 @@
+.div{
+    display: inline-table;
+    padding: 30px;
+    margin: 40px;
+    margin-left: 50px;
+    width: 425px;
+    height: 200px;
+    background-color: black;
+    border-radius: 25px;
+}
+p{
+    color: yellow;
+}
+#pro{
+    padding-left: 140px;
+}
